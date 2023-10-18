@@ -16,7 +16,13 @@ git clone https://github.com/Alaaeldinn/ESRGAN-Camera-Driver.git
 ```
 
 ### Usage
+```bash
 streamlit run streamlit_app.py
+```
+
+```bash
+python webcam.py
+```
 ---
 
 Basic usage:
