@@ -10,6 +10,11 @@ Real-ESRGAN is an upgraded [ESRGAN](https://arxiv.org/abs/1809.00219) trained wi
 ### Installation
 
 ```bash
+pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
+```
+
+
+```bash
 git clone https://github.com/Alaaeldinn/ESRGAN-Camera-Driver.git
 ```
 
