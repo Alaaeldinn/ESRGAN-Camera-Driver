@@ -21,7 +21,7 @@ def main():
             break
 
         # Process the frame with the ESRGAN model
-        pil_frame = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        pil_frame = Image.fromarray((cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
         sr_image = model.predict(pil_frame)
 
         # Convert the enhanced image back to an OpenCV format for display
