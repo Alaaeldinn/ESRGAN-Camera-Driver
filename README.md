@@ -55,7 +55,7 @@ Low quality image:
 
 Real-ESRGAN result:
 
-![](https://drive.google.com/uc?id=1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk)
+<a href="https://drive.google.com/uc?export=view&id=1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk"><img src="https://drive.google.com/uc?export=view&id=XXX" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 ---
 
