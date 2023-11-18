@@ -55,14 +55,7 @@ Low quality image:
 
 Real-ESRGAN result:
 
-![](https://drive.google.com/file/d/1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk/view?usp=sharing)
+![](https://drive.google.com/uc?id=<1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk>)
 
 ---
 
-Low quality image:
-
-![](inputs/lr_lion.png)
-
-Real-ESRGAN result:
-
-![](results/sr_lion.png)
