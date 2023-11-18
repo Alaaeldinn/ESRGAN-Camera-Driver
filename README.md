@@ -55,7 +55,7 @@ Low quality image:
 
 Real-ESRGAN result:
 
-![](https://drive.google.com/uc?id=<1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk>)
+![](https://drive.google.com/uc?id=1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk)
 
 ---
 
