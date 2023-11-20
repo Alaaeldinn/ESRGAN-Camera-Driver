@@ -41,11 +41,10 @@ Streamlit app Demo:
 
 Low quality image:
 
-![](inputs/lr_image.png)
-
+![](inputs/test.jpg)
 Real-ESRGAN result:
 
-![](results/sr_image.png)
+![](results/test2.jpg)
 
 ---
 
