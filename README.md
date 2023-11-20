@@ -42,19 +42,8 @@ Streamlit app Demo:
 Low quality image:
 
 ![](inputs/test.jpg)
-Real-ESRGAN result:
-
-![](results/test2.jpg)
-
----
-
-Low quality image:
-
-![](inputs/lr_face.png)
 
 Real-ESRGAN result:
 
-![Alt Text](https://drive.google.com/uc?id=1p0FgTEiuw6E7uEYN3WxmQmuT46PQsRsk)
-
----
+![](inputs/test2.jpg)
 
