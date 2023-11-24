@@ -1,8 +1,8 @@
 # ESRGAN-CAMERA-DRIVER 
 
 <p float="left">
-  <img src="inputs/test.jpg" width="250" />
-  <img src="inputs/test3.jpg" width="250" /> 
+  <img src="inputs/test.jpg" width="280" />
+  <img src="inputs/test3.jpg" width="280" /> 
 </p>
 
 PyTorch implementation of a Real-ESRGAN model trained on custom dataset. The ESRGAN Camera Driver is a versatile solution that empowers your camera device, be it a webcam or any other camera, to provide real-time image enhancement. Leveraging the power of ESRGAN (Enhanced Super-Resolution Generative Adversarial Network), this project elevates your visual experience by producing super-resolved, high-quality images and videos on the fly.
