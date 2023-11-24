@@ -1,6 +1,6 @@
 # ESRGAN-CAMERA-DRIVER 
 
-Solarized dark             |  Solarized Ocean
+Low Quality             |  Enhanced Image
 :-------------------------:|:-------------------------:
 ![](inputs/test.jpg)  |  ![](inputs/test2.jpg)
 
@@ -44,9 +44,4 @@ Basic usage:
 Streamlit app Demo:
 
 ![](inputs/streamlit-test.png)
-
-Low quality image:
-
-
-Real-ESRGAN result:
 
