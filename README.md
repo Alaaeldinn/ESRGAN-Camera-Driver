@@ -1,8 +1,8 @@
 # ESRGAN-CAMERA-DRIVER 
 
 <p float="left">
-  <img src="inputs/test.jpg" width="450" />
-  <img src="inputs/test3.jpg" width="450" /> 
+  <img src="inputs/test.jpg" width="400" />
+  <img src="inputs/test3.jpg" width="400" /> 
 </p>
 
 
