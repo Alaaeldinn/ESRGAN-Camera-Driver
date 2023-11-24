@@ -1,14 +1,7 @@
 # ESRGAN-CAMERA-DRIVER 
 
-
-
-
-Low Quality             |  Enhanced Image
-:-------------------------:|:-------------------------:
 <p float="left">
   <img src="inputs/test.jpg" width="300" />
-</p>
-|  <p float="right">
   <img src="inputs/test3.jpg" width="300" /> 
 </p>
 
